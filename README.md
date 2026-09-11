@@ -1,5 +1,7 @@
 # Guide Reticle Unlock Tool
 
+![Guide Reticle Unlock Tool: the app window next to a Guide monocular showing its reticle and zeroing menu](docs/title.png)
+
 A small Windows app by TRIDOS.DESIGN that turns the **reticle and zeroing menu** on or off on a Guide thermal monocular. One licence key unlocks one monocular, permanently.
 
 **[Download the latest version](https://github.com/trakaismikus/guide-unlock-tool-releases/releases/latest/download/GuideUnlockTool-setup.exe)** · [All versions](https://github.com/trakaismikus/guide-unlock-tool-releases/releases) · [Buy a licence key](https://tridos.design/products/guide-reticle-unlock-tool-license)
